@@ -1,0 +1,6 @@
+name: ColorChange
+version: '${project.version}'
+main: colorchange.colorchange.ColorChange
+api-version: 1.19
+authors: [ Foxie ]
+description: Plugin to be able to change teams upon running a command
